@@ -1,4 +1,4 @@
-!pip install streamlit -q
+!pip install streamlit 
 
 !pip install google-generativeai -q
 
