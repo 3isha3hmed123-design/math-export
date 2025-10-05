@@ -1,6 +1,6 @@
 streamlit 
 
-!pip install google-generativeai -q
+google-generativeai 
 
 
 %%writefile app.py
